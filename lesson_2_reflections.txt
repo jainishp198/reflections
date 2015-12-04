@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+When we initialize a repository, git creates a history file ".git" to track history of any file in the repository.
+We need to do it to maintain the history of our file in a new repository.
