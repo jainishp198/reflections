@@ -23,3 +23,10 @@ By merging the two branches together we can add the new features or bug fixes to
 it in the diagram like that because we are merging a branch into a main branch(master branch), one of the branch should 
 remain active
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually
+Pros of Git's automatic merging are that we don't need to manually add lines of codes at different places to merge different
+branches
+Con of the automatic merging is that sometimes it may add unwanted changes to the code to other branch
+
+pro of the manual merge is that we can decide what changes we need in our application and we can merge as per our desire
+con of the manual merging is that we need to manually check lines of codes and add or remove them, this takes lots of effort
