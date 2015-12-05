@@ -18,3 +18,8 @@ How do the diagrams help you visualize the branch structure?
 Diagrams helps a lot in understanding the flow of our project by visualization, by diagram, we can actually get to know
 where we are going with the project
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+By merging the two branches together we can add the new features or bug fixes to the main or another branches, we represent 
+it in the diagram like that because we are merging a branch into a main branch(master branch), one of the branch should 
+remain active
+
